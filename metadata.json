@@ -1,0 +1,6 @@
+{
+  "name": "학교 급식 식단 정보 조회",
+  "description": "NEIS Open API 기반 날짜별 학교 급식 식단, 영양 및 알레르기 정보를 확인하는 반응형 웹 App",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
